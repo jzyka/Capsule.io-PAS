@@ -3,7 +3,7 @@ Nama : Zykha Aulia Putri
 
 Kelas : 11 RPl 1
 
-Absen : 
+Absen : 36
 
 **Dokumentasi Game**
 
